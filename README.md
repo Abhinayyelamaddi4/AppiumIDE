@@ -1,2 +1,3 @@
 #Appium
-open source software automation tool which is useful to automate android and IOS platform apps (web app , native app & hybrid app)
+Android studio(Connecting Multiple Devices with Selected Versions), Real-Device USB Debugging(Vysor) ,Appium Inspector(locating elements in local , Real devices & browser Stack ) , IDE Eclipse for developing code 
+
